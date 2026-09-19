@@ -10,6 +10,7 @@ public class DemoTest {
 		
 		System.out.println("add");
 		System.out.println("sub");
+		System.out.println("div");
 	}
 
 }
